@@ -21,7 +21,7 @@ export default class Navegasiones extends Component {
                     <Nav className="mr-auto">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <Link to="/" className="nav-link">
+                                <Link to="/portafolio" className="nav-link">
                                     CV
                 </Link>
                             </li>

@@ -73,7 +73,7 @@ export default class App extends Component {
               )
           }
           <div className="container">
-            <Route path='/' exact component={CV} />
+            <Route path='/portafolio' exact={true} component={CV} />
             <Route path='/Redes' component={Redes} />
             <Route path="/Especialidades" component={Especialidades} />
             <Route path="/Trabajos" component={Trabajos} />
