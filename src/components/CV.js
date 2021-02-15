@@ -115,7 +115,7 @@ export default class CV extends Component {
                             </div>
                             <div className="col-sm-3 ">
                                 <p className='h5' >
-                                    Ecelente
+                                    Excelente
                                 </p>
                             </div>
                             <hr />
@@ -146,7 +146,7 @@ export default class CV extends Component {
                             </div>
                             <div className="col-sm-5 ">
                                 <p className='h5' >
-                                    Spañol
+                                    Español
                                 </p>
                             </div>
                             <hr />
